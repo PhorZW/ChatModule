@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "317860716145",
+    "firebase_url": "https://mr-tracker-c4f98-default-rtdb.firebaseio.com",
+    "project_id": "mr-tracker-c4f98",
+    "storage_bucket": "mr-tracker-c4f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317860716145:android:62b70fc9abc8bb926ec5d0",
+        "android_client_info": {
+          "package_name": "com.moc.chatmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-EF-xm9dLBER7BpUiY6MsfXzVXU5PPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317860716145:android:51f1aed6e538c9016ec5d0",
+        "android_client_info": {
+          "package_name": "com.moc.mrchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317860716145-tbk17ifm77ndp7mg7cic0k8pp96ro552.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moc.mrchatapp",
+            "certificate_hash": "28c818267d317edcd502408c2fc98080ecb2518b"
+          }
+        },
+        {
+          "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-EF-xm9dLBER7BpUiY6MsfXzVXU5PPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317860716145:android:9e2114afefec3dc56ec5d0",
+        "android_client_info": {
+          "package_name": "com.moc.mrtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-EF-xm9dLBER7BpUiY6MsfXzVXU5PPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317860716145:android:d4dc8a4871b223cd6ec5d0",
+        "android_client_info": {
+          "package_name": "com.moc.mrupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-EF-xm9dLBER7BpUiY6MsfXzVXU5PPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317860716145-m6caf8umgupnucejrneru4o7m62k3tjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
